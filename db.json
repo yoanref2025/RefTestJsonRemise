@@ -4,7 +4,7 @@
       "uid": "0191ac99-6f8c-4b41-9a13-dfb86fd5fdce",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "nom": "Décision Maire (Taux)",
-	  "type": 0,
+	  "enum_type": 0,
 	  "taux":10.00,
 	  "montant": 0
     },
@@ -12,7 +12,7 @@
       "uid": "2e1d0585-af31-49eb-ad57-cc24de4d9a9d",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "nom": "Décision Maire (Montant)",
-	  "type": 1,
+	  "enum_type": 1,
 	  "taux": 0,
 	  "montant": 5.60
     },
@@ -20,7 +20,7 @@
       "uid": "7ac726f3-4687-4fb9-8501-832d275caeb5",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "nom": "Décision Commune",
-	  "type": 1,
+	  "enum_type": 1,
 	  "taux": 5.00,
 	  "montant": 0
     }
